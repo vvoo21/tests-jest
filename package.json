@@ -1,0 +1,23 @@
+{
+  "name": "tests-jest",
+  "version": "1.0.0",
+  "description": "In this repo, I wrote a few practical tests for JavaScript functions using the Jest library. I followed the AAA pattern to make my tests easier for other developers to read and understand.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvoo21/tests-jest.git"
+  },
+  "keywords": [],
+  "author": "Vanessa Oliveros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vvoo21/tests-jest/issues"
+  },
+  "homepage": "https://github.com/vvoo21/tests-jest#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
