@@ -1,4 +1,4 @@
-const stringLength = require('./stringLength.js');
+import { stringLength } from './stringLength.js';
 
 test('check the string length', () => {
   expect(stringLength('colombia')).toBe(8);
