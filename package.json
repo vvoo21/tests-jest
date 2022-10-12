@@ -4,7 +4,8 @@
   "description": "In this repo, I wrote a few practical tests for JavaScript functions using the Jest library. I followed the AAA pattern to make my tests easier for other developers to read and understand.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch": "jest --watch *.js"
   },
   "repository": {
     "type": "git",
